@@ -117,6 +117,8 @@ const BannerSectionWrapper = styled.div`
     @media screen and (max-width: 1700px) {
         .kanvas-logo {
             width: 12rem;
+            /* right: 12rem; */
+            /* margin-top: -5rem; */
         }
         .para {
             margin-top: -3rem;
@@ -124,7 +126,10 @@ const BannerSectionWrapper = styled.div`
     }
     @media screen and (max-width: 1200px) {
         .kanvas-logo {
+            left: 20%;
             width: 10rem;
+            /* right: 8rem; */
+            margin-top: -5rem;
         }
         border-radius: 0% 85% 0% 0% / 0% 60% 0% 0% ;
     }
