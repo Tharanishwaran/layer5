@@ -87,7 +87,7 @@ const data = [
             }
         ]
     },
-    
+   
     {
         date: "Jan. 28 2021",
         topic: "Beginner's guide to contributing to Meshery and mesheryctl",
@@ -112,22 +112,96 @@ const data = [
                 link: "/community/members/piyush-singariya",
                 name: "Piyush Singariya",
             }
-        ] 
+        ]
     },
     {
-        date: "Oct. 7 2021",
-        topic: "Working with Meshery Docs and Jekyll",
+        date: "Apr. 10, 2025",
+        topic: "Working with Meshery Docs",
         resources: {
-            slides: "https://docs.google.com/presentation/d/1GhJH3YF5mBeYX7I7ItEd-EbUmk1cnn3BdK1X230kwII/edit?usp=sharing",
-            recording: "https://www.youtube.com/watch?v=PBq7mIPnPhM"
+            slides: "https://docs.google.com/presentation/d/1kQIzSa4f-pOH8cM4SwEdbFZGI_SXVyyhc9zUZPB7bsI/edit?usp=sharing",
+            recording: "https://www.youtube.com/watch?v=7wRbbOSwrtI"
+        },
+        presenters: [
+            {
+                link: "/community/members/zihan-kuang",
+                name: "Zihan Kuang"
+            }
+        ]
+    },    
+    {
+        date: "Apr. 17, 2025",
+        topic: "End-to-end Testing in Meshery CLI",
+        resources: {
+            slides: "https://docs.google.com/presentation/d/1OhUhqIZVPdnjD7eO1ppeXVvTa-P2lIcdCXHncTOX_XE/edit?usp=sharing",
+            recording: "https://www.youtube.com/watch?v=mRQAvR9-P1o"
+        },
+        presenters: [
+            {
+                link: "/community/members/riya-garg",
+                name: "Riya Garg"
+            }
+        ]
+    },
+    {
+        date: "Apr. 24, 2025",
+        topic: "Meshery CI and CD",
+        resources: {
+            slides: "https://docs.google.com/presentation/d/1hUDhFeYP7dtCQhOEw2U_wQ-G718Y2e5iU3drMDOdIws/edit?usp=sharing",
+            recording: "https://youtu.be/dlr_nzJV16Q"
+        },
+        presenters: [
+            {
+                link: "/community/members/sangram-rath",
+                name: "Sangram Rath"
+            }
+        ]
+    },
+    {
+        date: "Apr. 30, 2025",
+        topic: "Meshery CLI",
+        resources: {
+            slides: "https://docs.google.com/presentation/d/1lRop7DAAMUBmuFdzZK25LdQrkLG08eVsXEaDrauP3S8/edit?usp=sharing",
+            recording: "https://youtu.be/aNR_1h1Pisg"
         },
         presenters: [
             {
                 link: "/community/members/aadhitya-amarendiran",
-                name: "Aadhitya Amarendiran",
-            }
-        ]
-    },     
+                name: "Aadhitya Amarendiran"
+            },
+            {
+                link: "/community/members/matthieu-evrin",
+                name: "Matthieu Evrin"
+            },
+        ],
+    },
+    {
+        date: "May 8th, 2025",
+        topic: "End-to-end Testing in Meshery UI using Playwright",
+        resources: {
+            slides: "https://docs.google.com/presentation/d/1Vcq48Y0nLZsrKKFNYBJ5fm9bIcb2m6ZnYxq2azn6nlM/edit?slide=id.g35936fe4c88_0_0#slide=id.g35936fe4c88_0_0",
+            recording: "https://www.youtube.com/watch?v=9d0n37eTSkI"
+        },
+        presenters: [
+            {
+                link: "/community/members/ian-whitney",
+                name: "Ian Whitney"
+            },
+        ],
+    },
+    {
+        date: "May 15th, 2025",
+        topic: "Meshery UI",
+        resources: {
+            slides: "https://docs.google.com/presentation/d/1MRDs28YmzrO1t5QNz7WTp50ukCz6fB2p3awZz63HJmA/edit?slide=id.g34811bf5022_0_3#slide=id.g34811bf5022_0_3",
+            recording: "https://www.youtube.com/watch?v=ia7kvnHCurs"
+        },
+        presenters: [
+            {
+                link: "/community/members/amit-amrutiya",
+                name: "Amit Amrutiya"
+            },
+        ],
+    },
 ];
 
 export default data;
